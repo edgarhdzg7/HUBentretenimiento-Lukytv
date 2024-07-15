@@ -9,7 +9,8 @@ LukyTv
 
 Este proyecto simula una plataforma de streaming similar a Netflix.
 
-![Captura LukyTV](assets/images/Captura.jpg)
+![Captura LukyTV](assets/images/Captura.jpg)![captura](https://github.com/user-attachments/assets/6cc2d89e-5130-4dc0-9a1d-936313fdb8f0)
+
 
 
 
