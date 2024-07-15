@@ -1,0 +1,55 @@
+[
+                {
+                "id": 1,
+                "title": " Star Wars: The Force Awakens",
+                "year": 2015,
+                "genre": "Action",
+                "rating": 8,
+                "poster": "assets/images/Starwars.jpg",
+                "description": " A Rey, una carroñera del desierto, y a Finn, un soldado de asalto que ha desertado, les corresponde unir fuerzas con Han Solo y Chewbacca para restaurar la paz"
+                },
+                {
+                "id": 2,
+                "title": "Avengers Infinity War",
+                "year": 2018,
+                "genre": "Action",
+                "rating": 9.5,
+                "poster": "assets/images/Infinitywar.jpg",
+                "description": " La batalla más sangrienta de todos los tiempos. Los Avengers y sus aliados superhéroes deben arriesgarlo todo para poder derrotar al poderoso Thanos."
+                },
+              
+            
+            
+              {
+                "id": 3,
+                "title": "Harry Potter",
+                "year": 2004,
+                "genre": "Adventure",
+                "rating": 8.3,
+                "poster": "assets/images/Harrypotter.jpg",
+                "description": " Cuando Harry Potter y sus amigos vuelven a Hogwarts para cursar su tercer año de estudios, se ven involucrados en un misterio: de la prisión para magos de Azkaban se ha fugado Sirius Black, un peligroso mago que fue cómplice de Lord Voldemort y que intentará vengarse de Harry Potter."
+                },
+                {
+                "id": 4,
+                "title": "Back To The Future",
+                "year": 1985,
+                "genre": "Adventure",
+                "rating": 8.8,
+                "poster": "assets/images/Backtothefuture.jpg",
+                "description": " Una máquina del tiempo transporta a un adolescente a los años 50, cuando sus padres todavía estudiaban en la secundaria."
+                },
+                
+            
+            
+            
+            {
+                "id": 5,
+                "title": " The Lord of the Rings: The Return of the King",
+                "year": 2003,
+                "genre": "Adventure",
+                "rating": 9.3,
+                "poster": "assets/images/Thelordoftherings.jpg",
+                "description": "Frodo, Sam y Gollum se acercan al monte del Destino, donde destruirán el anillo o perecerán en el intento. Mientras, Aragorn y sus compañeros se enfrentan a las monstruosas tropas de Sauron."
+                }
+    
+]
