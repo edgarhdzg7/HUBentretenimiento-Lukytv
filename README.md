@@ -14,6 +14,8 @@ Este proyecto simula una plataforma de streaming similar a Netflix.
 
 
 
+
+
 ### Funcionalidades
 
 - Navegar por películas
@@ -46,5 +48,9 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 Creacion de tablas para la base de datos
 
 ![image](https://github.com/user-attachments/assets/68a38c5e-ee90-4cc3-933c-6dba9589955a)
+
+
+Comunicacion con la base de datos para la obtencion de los datos
+![image](https://github.com/user-attachments/assets/46ac0027-a08a-482b-b301-1e6a1817771b)
 
 
