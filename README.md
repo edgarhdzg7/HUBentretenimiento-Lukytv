@@ -13,6 +13,13 @@ Este proyecto simula una plataforma de streaming similar a Netflix.
 
 
 
+Instalación
+
+1.Clonar un repositorio de mi git
+2.Elegir una carpeta para implementar el proyecto
+3.Crear el proyecto
+4.Ejecutar el comando npm install
+5.Instalacion de MySQL Serve 2022 y SSMS 2022
 
 
 
