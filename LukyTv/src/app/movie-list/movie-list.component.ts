@@ -9,7 +9,6 @@ interface Movie {
   description: string;
   poster: string;
 }
-
 @Component({
   selector: 'app-movie-list',
   standalone: true,
@@ -33,7 +32,7 @@ export class MovieListComponent implements OnInit {
   constructor(private http: HttpClient) {}
 
   ngOnInit() {
-    this.http.get<Movie[]>('assets/movies.json').subscribe({
+    this.http.get<Movie[]>('http://localhost:3000/api/movies').subscribe({
       next: (data) => {
         this.movies = data;
         console.log('Movies loaded:', this.movies);

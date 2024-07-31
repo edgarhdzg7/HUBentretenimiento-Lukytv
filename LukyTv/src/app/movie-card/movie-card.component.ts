@@ -9,10 +9,9 @@ import { CommonModule } from '@angular/common';
     <div class="movie-card">
       <img [src]="movie.poster" [alt]="movie.title">
       <h1>{{ movie.title }}</h1>
-      <h3>{{ movie.year }}</h3>
-      <h4>Genero: {{ movie.genre }}</h4>
-      <h4>Rating: {{ movie.rating }}</h4>
-      <p>{{ movie.description }}</p>
+      <h3>{{ movie.releaseYear }}</h3>
+      <h4>Genero: {{ movie.genre_name }}</h4>
+      <p>{{ movie.descrip }}</p>
     </div>
   `,
   styles: [`
@@ -35,4 +34,5 @@ import { CommonModule } from '@angular/common';
 })
 export class MovieCardComponent {
   @Input() movie: any;
+
 }
