@@ -1,0 +1,66 @@
+# LukyTv
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.0.
+LukyTv
+
+¡Bienvenido a LukyTv, tu hub de video!
+
+## Proyecto
+
+Este proyecto simula una plataforma de streaming similar a Netflix.
+
+![Captura LukyTV](assets/images/Captura.jpg)![captura](https://github.com/user-attachments/assets/6cc2d89e-5130-4dc0-9a1d-936313fdb8f0)
+
+
+
+Instalación
+
+1.Clonar un repositorio de mi git
+2.Elegir una carpeta para implementar el proyecto
+3.Crear el proyecto
+4.Ejecutar el comando npm install
+5.Instalacion de MySQL Serve 2022 y SSMS 2022
+
+
+
+### Funcionalidades
+
+- Navegar por películas
+- Ver detalles de cada película
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+Las primeras pruebas no salieron nada bien 
+![image](https://github.com/user-attachments/assets/994b3fd9-2d72-4883-8e55-8697651e17dd)
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+
+Creacion de tablas para la base de datos
+
+![image](https://github.com/user-attachments/assets/68a38c5e-ee90-4cc3-933c-6dba9589955a)
+
+
+Comunicacion con la base de datos para la obtencion de los datos
+![image](https://github.com/user-attachments/assets/46ac0027-a08a-482b-b301-1e6a1817771b)
+
+
