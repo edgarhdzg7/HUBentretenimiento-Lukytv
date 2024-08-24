@@ -57,5 +57,29 @@ Las primeras pruebas no salieron nada bien
 # Conexion con la base de datos 
 ![image](https://github.com/user-attachments/assets/162e461a-ddb3-4357-a0f6-13aa407e9aac)
 
+# Normalizacion de la base de datos
+![image](https://github.com/user-attachments/assets/fd76ce4e-b66e-4bc9-92f5-69bf5f8e57d6)
+
+
+# Creacion de Pods 
+
+Se realizo la creacion de pods , se presentaron algunos errores durante la creacion 
+
+![image](https://github.com/user-attachments/assets/31b61e60-6d79-43ac-aa18-22859e26dc88)
+
+# Creacion de imagen para API 
+
+Se implemento Docker para la creacion de la imagen para la API
+
+![image](https://github.com/user-attachments/assets/23f3cf30-74a2-463f-9112-c2a634478761)
+
+# Dockerfile del proyecto
+
+![image](https://github.com/user-attachments/assets/e6e563d9-78a9-46d7-8a79-33bfe385299c)
+
+# Estructura de la API creada 
+![image](https://github.com/user-attachments/assets/bc21d4ca-25d5-48f0-95eb-8ba2e0c1801e)
+
+
 
 
