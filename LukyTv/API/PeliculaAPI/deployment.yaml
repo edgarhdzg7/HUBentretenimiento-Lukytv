@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: peliculaapi
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: peliculaapi
+  template:
+    metadata:
+      labels:
+        app: peliculaapi
+    spec:
+      containers:
+      - name: peliculaapi
+        image: peliculaapi:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 80

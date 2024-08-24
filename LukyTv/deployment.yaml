@@ -1,0 +1,20 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: lukytv
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: lukytv
+  template:
+    metadata:
+      labels:
+        app: lukytv
+    spec:
+      containers:
+      - name: lukytv-web
+        image: lukytv-web:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 80
