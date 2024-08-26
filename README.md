@@ -86,8 +86,9 @@ Se implemento Docker para la creacion de la imagen para la API
 
 # ¿Qué salió bien?
 
--Creacion de imagenes e implementacion de Docker
--Creacion de la API
+- Creacion de imagenes e implementacion de Docker
+- Creacion de la API\
+- Conocimientos adquiridos durante el sprint
 
 # ¿Qué no salió bien?
 
@@ -97,9 +98,9 @@ Se implemento Docker para la creacion de la imagen para la API
 
   # ¿Qué puede mejorar?
 
-  -La interfaz del proyecto
-  -Implementar un login
-  -Mejorar la organizacion del codigo
-  -Mayor seguridad en la app
+  - La interfaz del proyecto
+  - Implementar un login
+  - Mejorar la organizacion del codigo
+  - Mayor seguridad en la app
 
 
