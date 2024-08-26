@@ -11,26 +11,26 @@ Esta sección describe los pasos básicos para configurar el entorno de desarrol
 
 Requisitos previos:
 
--Tener Git instalado en tu sistema.
--Node.js y npm (o yarn) instalados.
+- Tener Git instalado en tu sistema.
+- Node.js y npm (o yarn) instalados.
 
 
--Clona el repositorio: Ejecuta el comando git clone https://tu-repositorio.git para clonar el repositorio de LukyTv desde GitHub.
+- Clona el repositorio: Ejecuta el comando git clone https://tu-repositorio.git para clonar el repositorio de LukyTv desde GitHub.
 
--Navega al directorio del proyecto: Utiliza el comando cd LukyTv para ingresar al directorio del proyecto recién clonado.
+- Navega al directorio del proyecto: Utiliza el comando cd LukyTv para ingresar al directorio del proyecto recién clonado.
 
--Instala las dependencias: Ejecuta el comando npm install (o yarn install si estás utilizando yarn) para instalar las dependencias del proyecto.
+- Instala las dependencias: Ejecuta el comando npm install (o yarn install si estás utilizando yarn) para instalar las dependencias del proyecto.
 
--Nota: Es posible que necesites instalar y configurar MySQL y herramientas relacionadas para la base de datos. Sin embargo, esta sección se enfoca en la configuración del desarrollo de la aplicación LukyTv.
+- Nota: Es posible que necesites instalar y configurar MySQL y herramientas relacionadas para la base de datos. Sin embargo, esta sección se enfoca en la configuración del desarrollo de la aplicación LukyTv.
 
 # Desarrollo
--Servidor de desarrollo
+- Servidor de desarrollo
 
 - Ejecuta el comando ng serve para iniciar un servidor de desarrollo local. Podrás acceder a LukyTv en tu navegador web dirigiéndote a http://localhost:4200/. Cualquier cambio que realices en el código se reflejará automáticamente en el navegador.
 
 # Pruebas
 
--Pruebas unitarias
+- Pruebas unitarias
 
 Ejecuta el comando ng test para ejecutar las pruebas unitarias del proyecto. Estas pruebas verifican el funcionamiento individual de los componentes de la aplicación.
 
@@ -39,8 +39,8 @@ Las primeras pruebas no salieron nada bien
 
 # Funcionalidad
 
--Navega fácilmente por una extensa biblioteca de películas.
--Obtén detalles completos de cada película, incluyendo sinopsis, reparto, director y calificaciones.
+- Navega fácilmente por una extensa biblioteca de películas.
+- Obtén detalles completos de cada película, incluyendo sinopsis, reparto, director y calificaciones.
 
 
 
