@@ -73,6 +73,10 @@ Se implemento Docker para la creacion de la imagen para la API
 
 ![image](https://github.com/user-attachments/assets/23f3cf30-74a2-463f-9112-c2a634478761)
 
+# Imagen Docker 
+![image](https://github.com/user-attachments/assets/7008ca14-821b-4212-9da3-dfe4884582da)
+
+
 # Dockerfile del proyecto
 
 ![image](https://github.com/user-attachments/assets/e6e563d9-78a9-46d7-8a79-33bfe385299c)
