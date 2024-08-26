@@ -84,6 +84,22 @@ Se implemento Docker para la creacion de la imagen para la API
 # Estructura de la API creada 
 ![image](https://github.com/user-attachments/assets/bc21d4ca-25d5-48f0-95eb-8ba2e0c1801e)
 
+# ¿Qué salió bien?
 
+-Creacion de imagenes e implementacion de Docker
+-Creacion de la API
+
+# ¿Qué no salió bien?
+
+- Implementacion de Kubernetes
+- Administracion de los tiempos de trabajo
+- Test de pruebas
+
+  # ¿Qué puede mejorar?
+
+  -La interfaz del proyecto
+  -Implementar un login
+  -Mejorar la organizacion del codigo
+  -Mayor seguridad en la app
 
 
